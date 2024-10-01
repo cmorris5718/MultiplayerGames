@@ -1,0 +1,15 @@
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\bin\Debug\net8.0\ServerApplication.exe
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\bin\Debug\net8.0\ServerApplication.deps.json
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\bin\Debug\net8.0\ServerApplication.runtimeconfig.json
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\bin\Debug\net8.0\ServerApplication.dll
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\bin\Debug\net8.0\ServerApplication.pdb
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.AssemblyInfoInputs.cache
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.AssemblyInfo.cs
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.csproj.CoreCompileInputs.cache
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.sourcelink.json
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.dll
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\refint\ServerApplication.dll
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.pdb
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ServerApplication.genruntimeconfig.cache
+C:\GitRepos\MultiplayerGames\ServerApplication\ServerApplication\obj\Debug\net8.0\ref\ServerApplication.dll
